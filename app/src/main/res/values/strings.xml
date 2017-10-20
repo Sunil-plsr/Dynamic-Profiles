@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profiler</string>
+    <string name="new_profile_title">Add New Profile</string>
+    <string name="edit_profile_title">Edit Profile</string>
+    <string name="stimuli">Trigger</string>
+    <string name="profile_name_hint">Name of the profile</string>
+    <string name="wifi_title">WiFi</string>
+    <string name="wifi_msg">Apply profile when connected to WiFi or disconnected from it</string>
+    <string name="cell_tower_title">Cellular Network</string>
+    <string name="cell_network_msg">Activate profile when with regard to cellular network (of your service provider)</string>
+    <string name="time_title">Time</string>
+    <string name="schedule">Schedule</string>
+    <string name="time_msg">Schedule your profile with timestamps</string>
+    <string name="battery_title">Battery</string>
+    <string name="battery_msg">Set what happens when battery levels change</string>
+    <string name="responses_title">Action</string>
+    <string name="create_profile_btn">Create Profile</string>
+    <string name="edit_profile_btn">Update Profile</string>
+    <string name="wifi_resp_msh">Specify WiFi status for the above trigger</string>
+    <string name="from_time">From</string>
+    <string name="to_time">To</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="bluetooth_msg">Specify Bluetooth status</string>
+    <string name="brightness_title">Auto-Brightness</string>
+    <string name="brightness_msg">Set or reset automatic brightness for the selected conditions</string>
+    <string name="volume_title">Ringing Volume</string>
+    <string name="volume_msg">Set volume as response to trigger</string>
+    <string name="profile_list_title">List of Profiles</string>
+    <string name="profile_added_msg">Profile added</string>
+    <string name="profile_updated_msg">Profile updated</string>
+</resources>
